@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\bin\Debug\Контейнеры компановки.exe.config
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\bin\Debug\Контейнеры компановки.exe
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\bin\Debug\Контейнеры компановки.pdb
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\MainWindow.g.cs
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\App.g.cs
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки_MarkupCompile.cache
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки_MarkupCompile.lref
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\MainWindow.baml
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.g.resources
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры_компановки.Properties.Resources.resources
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.exe
+D:\Microsoft Visual Studio2019\Proekts\Контейнеры компановки\Контейнеры компановки\obj\Debug\Контейнеры компановки.pdb
